@@ -1,0 +1,61 @@
+/* definições gerais */
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    min-width: 320px;
+}
+
+.container{
+    padding:0;
+}
+
+/* definições container header */
+
+.container-header{
+    border: 1px solid red;
+    position: relative;
+}
+
+.button-menu{
+    position: absolute;
+    right: 15px;
+    top:15px;
+    border: 1px solid red;
+}
+
+/* definições do menu */
+
+.container-menu{
+    position: relative;
+    right: 100%;
+    width: 50%;
+    border: 1px solid red;
+}
+
+/* Animação Menu */
+.abrir-menu{
+    animation-name: anim-abre-menu;
+    animation-duration: 0.7s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+}
+
+.fechar-menu{
+    animation-name: anim-fechar-menu;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+}
+
+@keyframes anim-abre-menu{
+    from{right: 100%;}
+    to{right: 0;}
+}
+
+@keyframes anim-fechar-menu{
+    from{right: 0;}
+    to{right: 100%;}
+}
