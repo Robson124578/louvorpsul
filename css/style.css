@@ -4,15 +4,20 @@ body, h1, h2, h3, h4, h5, h6 {
     font-family: 'Orbitron', sans-serif;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 *{color: #ffffff;}
 
 body{
     background-color: #250606;
     margin: 5px;
-    background-image: url('../img/img-fundo.jpg');
+    background-image: url('../img/img-instruments.jpg');
     background-position: center;
     background-position-y: 70px;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container{
@@ -51,6 +56,15 @@ body{
 .container-menu ul{
     list-style-type: none;
     padding: 0;
+}
+
+.container-menu ul li{
+    margin: 5px 15px;
+    padding: 5px;
+    text-shadow: 2px 2px 5px #9acd32;
+    background-color: #9acd32;
+    color: #250606;
+    font-weight: bold;
 }
 
 /* Animação Menu */

@@ -7,7 +7,7 @@
     <meta name="keywords" content="Louvor Psul, louvor psul, louvor ebenézer psul, ministerio de louvor voltados para cruz">
     <meta name="author" content="Robson Alves Moreira Pires de Almeida">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&family=Orbitron&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&family=Orbitron&family=Lobster+Two&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/a4a97c7aaf.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/style.css">
