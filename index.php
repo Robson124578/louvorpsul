@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Louvor Psul</title>
 </head>
-<body>
+<body">
     <div class="container">
         <header class="container-header">
             <a href="#"><h1>Louvor Psul</h1></a>
